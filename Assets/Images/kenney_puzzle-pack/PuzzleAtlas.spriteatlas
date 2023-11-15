@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PuzzleAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2472fe907a8d9e14993147875585c58c, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 053cdb60fcaeac54b97c351fcbb87a52, type: 3}
+  - {fileID: 21300000, guid: ab3bc470c8e4490429d25b20bac19b71, type: 3}
+  - {fileID: 21300000, guid: 9205e090e2751814da2af7e9d5336f60, type: 3}
+  - {fileID: 21300000, guid: 7bf97ee0346eb0e4096ddb1bd1e86310, type: 3}
+  - {fileID: 21300000, guid: 1e715bf09ee074b44b4fc9e1c3b00067, type: 3}
+  - {fileID: 21300000, guid: 3145c22173c423949a3944bdc0ab3d25, type: 3}
+  - {fileID: 21300000, guid: 320ae3319cdb941459f033fa728bfd83, type: 3}
+  - {fileID: 21300000, guid: 0ba2bc4131d24a54ab8f16f9d4453eb7, type: 3}
+  - {fileID: 21300000, guid: 7552d951843228d4bbbe650d0de50228, type: 3}
+  - {fileID: 21300000, guid: def838528dd70864eac987a961f9bba7, type: 3}
+  - {fileID: 21300000, guid: 043f058255e81c04cac391aad6cb6ffa, type: 3}
+  - {fileID: 21300000, guid: 635ca9c2b068b3c43990b12448259700, type: 3}
+  - {fileID: 21300000, guid: 2f3c8ec21c378da41a34588d1b73ed1c, type: 3}
+  - {fileID: 21300000, guid: c997e9f2a141f3d46a0ced547cdeb706, type: 3}
+  - {fileID: 21300000, guid: bae4e993a9443294ab539d0fe5a42608, type: 3}
+  - {fileID: 21300000, guid: 8e012fd3c83ea764b80718d152caed89, type: 3}
+  - {fileID: 21300000, guid: e21a72e3e6f3e974d9ba9e69b0bd343f, type: 3}
+  - {fileID: 21300000, guid: 20f89f14a78384846901b1115960ab89, type: 3}
+  - {fileID: 21300000, guid: bf8eb1346760ab149987ecedee438d2a, type: 3}
+  - {fileID: 21300000, guid: 4f3ed484e89895644810c6aee55bc3e0, type: 3}
+  - {fileID: 21300000, guid: 781f23c496ba6264a839a593dcae6a74, type: 3}
+  - {fileID: 21300000, guid: 7b679ec41ec00ae458ea1427929917f5, type: 3}
+  - {fileID: 21300000, guid: 5b1a5ff449d467140b7e06cd08ce23f2, type: 3}
+  - {fileID: 21300000, guid: edf60b05ed4ba704c80535a5bf789bd8, type: 3}
+  - {fileID: 21300000, guid: aba2bc45c5329e042a27dcf9f8501fce, type: 3}
+  - {fileID: 21300000, guid: ac9fdc7575475664eafa0d8749fe095c, type: 3}
+  - {fileID: 21300000, guid: c3c2d2b51b7a40b44acf70d8dab7950e, type: 3}
+  - {fileID: 21300000, guid: 901f65163f2fa64448ac1ce470151073, type: 3}
+  - {fileID: 21300000, guid: 233f1f2635284d542ba1bdd53a92a26e, type: 3}
+  - {fileID: 21300000, guid: 8d1a9d36a63ee4249b58a669c779d767, type: 3}
+  - {fileID: 21300000, guid: 1c208c5672d48894ab1e6d8b061a0a89, type: 3}
+  - {fileID: 21300000, guid: 1080e4c6b83878c4488e861cea76d2ad, type: 3}
+  - {fileID: 21300000, guid: e34bb9c63f23d7a4e9ed4a5832c2717a, type: 3}
+  - {fileID: 21300000, guid: e429415765a8ca54c9a34a52d6c39d4d, type: 3}
+  - {fileID: 21300000, guid: 594bf877a04c2794ebefed7d60de59c0, type: 3}
+  - {fileID: 21300000, guid: 98e2a2b7dca6fef468bb99019e357a43, type: 3}
+  - {fileID: 21300000, guid: 556ea938e42771746898621b8f0707bb, type: 3}
+  - {fileID: 21300000, guid: eec5f558fd001814395af2560e694d6a, type: 3}
+  - {fileID: 21300000, guid: c146b65813db9364d8bdb69b85c06162, type: 3}
+  - {fileID: 21300000, guid: 27b5d658d4b8c154989717c2ed046096, type: 3}
+  - {fileID: 21300000, guid: ec586d782a60aca4787020945f80bb1d, type: 3}
+  - {fileID: 21300000, guid: 9138a9a80023d034c9de16547854eb6e, type: 3}
+  - {fileID: 21300000, guid: 9ce7aad8e8b4ebe488e3624efe7c7371, type: 3}
+  - {fileID: 21300000, guid: 6b5fadd86db9f0147bd820bdb135b7da, type: 3}
+  - {fileID: 21300000, guid: 46d031f8892045a41b2383a6b87bfc34, type: 3}
+  - {fileID: 21300000, guid: a73e4dd900b16c24ca408bf3d74eb074, type: 3}
+  - {fileID: 21300000, guid: 590377f973c852c49a87ac4edeb83318, type: 3}
+  - {fileID: 21300000, guid: f8274f3b6e9e13b41ad0620a01cd4e98, type: 3}
+  - {fileID: 21300000, guid: 6893546b6e44a0246bb41c57c61a46dd, type: 3}
+  - {fileID: 21300000, guid: ed2da78b9bbdd03419ca89c7ee6c08e0, type: 3}
+  - {fileID: 21300000, guid: 9c65509b0e2a0774685b96c43371ebbd, type: 3}
+  - {fileID: 21300000, guid: 34ee770cf95f98d49be7db26ab0dee68, type: 3}
+  - {fileID: 21300000, guid: d74f001c9529958438921820d4c7651f, type: 3}
+  - {fileID: 21300000, guid: a3fb281c7ef5714419c34e57daa1c242, type: 3}
+  - {fileID: 21300000, guid: 8c58735cdaec18a47af076a05f129d70, type: 3}
+  - {fileID: 21300000, guid: a4ea118c23610e64dbab0b8b4b8c8bbf, type: 3}
+  - {fileID: 21300000, guid: 01bfe48c5485f0440807562687e8e095, type: 3}
+  - {fileID: 21300000, guid: 12bc998cd9a5aac47a164f7a9d086dc7, type: 3}
+  - {fileID: 21300000, guid: a6dde1bc7fe5e2b47946a2269642ea06, type: 3}
+  - {fileID: 21300000, guid: 71e88dfcd6e321d4abb773963db0f03c, type: 3}
+  - {fileID: 21300000, guid: 6a88074dc0458044692abeb223ac07ab, type: 3}
+  - {fileID: 21300000, guid: 43e5805d5c834394aae473b574d31590, type: 3}
+  - {fileID: 21300000, guid: eda95ecd2c974ac41aa977b62c14a109, type: 3}
+  - {fileID: 21300000, guid: 6a45becd2d51bef499a8930cc1ae71dd, type: 3}
+  - {fileID: 21300000, guid: 8610d8edaf3895146a8d5e0cdd7222e8, type: 3}
+  - {fileID: 21300000, guid: 689e09edeff566f47898ef2924233ef9, type: 3}
+  - {fileID: 21300000, guid: 26471bedb2a7bf441b1c6490de305875, type: 3}
+  - {fileID: 21300000, guid: 1e28e7fdbe77d3541aa268b660cb9ed5, type: 3}
+  - {fileID: 21300000, guid: 1ea0f34e776915c41803c6223c1fbab9, type: 3}
+  - {fileID: 21300000, guid: 2ab7bc6e17a18874fac1fb58a97c52b2, type: 3}
+  - {fileID: 21300000, guid: 8cd7357e93b63a14e9de9c46f8d6f9cb, type: 3}
+  - {fileID: 21300000, guid: 672c7bbef935ea645a1a95a8af286095, type: 3}
+  - {fileID: 21300000, guid: 6be6abdef450ec84e83faacaa5d72ad6, type: 3}
+  - {fileID: 21300000, guid: fa382c3f6d185454b82660d9f746a1b5, type: 3}
+  - {fileID: 21300000, guid: 8de31b9f26f43c14baec7a13cdf82fc2, type: 3}
+  - {fileID: 21300000, guid: ee4822af476365a44b53b06280495098, type: 3}
+  - {fileID: 21300000, guid: 64f93bef717a23b439a8c55ae9548051, type: 3}
+  - {fileID: 21300000, guid: fdf17eef4e0d37d4b81fb006b4cbbfd2, type: 3}
+  - {fileID: 21300000, guid: 4db03fefec783b14692f12ec27f23e82, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - element_grey_square
+  - element_green_square_glossy
+  - selectorA
+  - buttonSelected
+  - buttonSelected_topright
+  - ballGrey
+  - element_grey_rectangle_glossy
+  - element_yellow_polygon_glossy
+  - element_purple_square
+  - buttonSelected_bottomleft
+  - buttonSelected_left
+  - paddleBlu
+  - element_purple_polygon
+  - element_yellow_polygon
+  - tile_grey
+  - element_blue_diamond_glossy
+  - selectorC
+  - element_purple_diamond_glossy
+  - element_blue_polygon_glossy
+  - buttonSelected_mid
+  - element_blue_square
+  - buttonSelected_right
+  - element_green_square
+  - element_purple_rectangle_glossy
+  - paddleRed
+  - element_green_diamond
+  - buttonDefault_topright
+  - buttonSelected_topleft
+  - element_red_square_glossy
+  - buttonDefault_right
+  - element_blue_rectangle_glossy
+  - element_red_diamond_glossy
+  - selectorB
+  - buttonDefault_left
+  - element_red_square
+  - element_green_rectangle_glossy
+  - buttonDefault_topleft
+  - element_blue_square_glossy
+  - particleCartoonStar
+  - element_green_rectangle
+  - element_purple_diamond
+  - ballBlue
+  - element_purple_cube_glossy
+  - buttonDefault
+  - element_yellow_square_glossy
+  - element_red_polygon
+  - buttonDefault_mid
+  - element_grey_rectangle
+  - element_grey_diamond
+  - buttonDefault_bottomleft
+  - element_purple_polygon_glossy
+  - element_grey_polygon
+  - element_blue_rectangle
+  - element_red_polygon_glossy
+  - buttonSelected_top
+  - element_yellow_rectangle_glossy
+  - element_green_diamond_glossy
+  - buttonSelected_bottom
+  - element_red_rectangle_glossy
+  - particleSmallStar
+  - element_yellow_diamond_glossy
+  - element_green_polygon
+  - buttonDefault_top
+  - element_red_diamond
+  - buttonDefault_bottomright
+  - element_blue_diamond
+  - element_red_rectangle
+  - buttonDefault_bottom
+  - element_blue_polygon
+  - element_purple_rectangle
+  - element_yellow_square
+  - element_grey_square_glossy
+  - particleStar
+  - element_grey_diamond_glossy
+  - buttonSelected_bottomright
+  - element_grey_polygon_glossy
+  - element_green_polygon_glossy
+  - element_yellow_rectangle
+  - element_yellow_diamond
+  m_RenderDataMap: {}
+  m_Tag: PuzzleAtlas
+  m_IsVariant: 0

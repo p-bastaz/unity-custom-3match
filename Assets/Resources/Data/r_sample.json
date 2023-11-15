@@ -1,0 +1,14 @@
+﻿{
+  "data": [
+    {
+      "sample_id": 10001,
+      "sample_name": "꼬북이",
+      "sample_bool": true
+    },
+    {
+      "sample_id": 30002,
+      "sample_name": "빠슷",
+      "sample_bool": false
+    }
+  ]
+}
