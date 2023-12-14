@@ -50,7 +50,7 @@ public class MatchManager : MonoBehaviour
 
             if (block_Result != null)
             {
-                result = result.Union(block_Result).ToList();
+                result = result.Union(block_Result).ToList(); //중복 제거(합집합)
             }
         }
 

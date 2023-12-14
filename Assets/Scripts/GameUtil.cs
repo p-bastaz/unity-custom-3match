@@ -45,6 +45,7 @@ public static class GameUtil
     /// </summary>
     public static List<MatchInfo> Distinct(List<MatchInfo> result)
     {
+        // IEqualityComparer<T> 인터페이스 : 개체가 같은지 비교할 수 있는 메서드
         return result.Distinct(new ListOfMatchInfoComparer()).ToList();
     }
 
@@ -67,12 +68,15 @@ public static class GameUtil
 
 public class ListOfMatchInfoComparer : IEqualityComparer<MatchInfo>
 {
+
+    //좌표가 같은지 여부 확인
     public bool Equals(MatchInfo a, MatchInfo b)
     {
         return
             a.coords.SequenceEqual(b.coords);
     }
 
+    //해시 코드 반환
     public int GetHashCode(MatchInfo l)
     {
         unchecked
